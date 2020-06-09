@@ -7,7 +7,7 @@ package funcao01;
 
 /**
  *
- * @author Computador
+ * @author OrionCrow
  */
 public class Fatorial {
     private int num = 0;
@@ -20,7 +20,7 @@ public class Fatorial {
         String s = "";
         
         for (int c = n; c > 1 ; c--) {
-            f*=f;
+            f*=c;
             s+=c + "x";
             
         }

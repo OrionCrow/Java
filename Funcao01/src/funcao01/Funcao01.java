@@ -7,7 +7,7 @@ package funcao01;
 
 /**
  *
- * @author Computador
+ * @author OrionCrow
  */
 public class Funcao01 {
 
